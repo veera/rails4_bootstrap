@@ -1,0 +1,1 @@
+CSS_HOOK = ['jumbotron_narrow']
